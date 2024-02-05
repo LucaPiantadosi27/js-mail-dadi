@@ -1,0 +1,15 @@
+body{
+    background-color: bisque;
+    
+}
+div{
+    display: flex;
+    background-color: rgba(102, 6, 25, 0.774);
+    width: 400px;
+    padding: 6px;
+    justify-content: center;
+    border-radius: 25px;
+}
+h1{
+    color: rgb(255, 255, 255);
+}
